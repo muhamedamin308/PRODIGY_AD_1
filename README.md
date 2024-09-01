@@ -14,6 +14,6 @@ This is a simple calculator application for Android that supports basic arithmet
 - **MainActivity**: For efficient image loading and caching.
 - **Operations**: Contains utility functions for performing arithmetic operations and formatting results.
 
-# Dependency Injection
+# Simplified Logic
 - **Operator Handling**: Ensures correct operation sequencing and percentage calculations.
 - **Reset Functionality**: Clears the calculator state efficiently.
